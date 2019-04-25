@@ -9,6 +9,10 @@ public class GitTest {
 		// commit
 		// commit
 		// commit
+		// commit
+		// commit
+		// commit
+		// commit
 	}
 
 }

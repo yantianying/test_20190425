@@ -12,20 +12,7 @@ public class GitTest {
 		// commit
 		// commit
 		// commit
-		// commit2
-		// commit2
-		// commit2
-		// commit2
-		// commit2
-		// commit2
-		// commit2
-		// commit2
-		// commit2
-		// commit2
-		// commit2
-		// commit2
-		// commit2
-		// commit2
+		// commit
 	}
 
 }
